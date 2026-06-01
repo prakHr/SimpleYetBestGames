@@ -2,6 +2,7 @@ import subprocess
 import time
 from dash import Dash, Output, Input, ALL, ctx
 import dash_mantine_components as dmc
+import freegames
 
 app = Dash(__name__)
 
